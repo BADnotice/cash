@@ -1,0 +1,6 @@
+name: cash
+version: @version@
+main: net.hyzenmc.cash.CashPlugin
+authors: [ BADnotice ]
+depend:
+  - PlaceholderAPI
